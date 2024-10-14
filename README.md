@@ -1,0 +1,1 @@
+Kafkasarama is an MIT-licensed wrapper Go client library for [Sarama](https://github.com/IBM/sarama/).
